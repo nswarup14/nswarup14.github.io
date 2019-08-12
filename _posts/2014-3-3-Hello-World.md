@@ -1,10 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: GSoC 2019 Blog
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hi, here are all my blog posts for GSoC 2019.
 
-[Week 5 post]({{ site.baseurl }}/_posts/Second_Evaluation/2019-8-12-Week_5.md)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+[Week 5 post](https://github.com/nswarup14/nswarup14.github.io/blob/master/_posts/Second_Evaluation/2019-8-12-Week_5.md)
+[Week 6 post](https://github.com/nswarup14/nswarup14.github.io/blob/master/_posts/Second_Evaluation/2019-8-12-Week_6.md)
